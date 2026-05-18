@@ -1,0 +1,9 @@
+{
+  "name": "livenewsapi",
+  "version": "1.0.0",
+  "description": "Fetch live news using a news API key.",
+  "type": "module",
+  "scripts": {
+    "start": "node fetchNews.js"
+  }
+}
